@@ -165,7 +165,7 @@ const ResumeSection = () => {
                         <li className="relative border-b border-l border-gray-700 py-4 pl-4 last:border-b-0">
                             <div className="absolute -left-2 top-3 flex items-center space-x-2 md:-left-4">
                                 <span className="whitespace-nowrap rounded-full border border-green-700 bg-gray-950 px-2 py-1 text-xs font-bold text-white shadow-xl shadow-black/30">
-                                    2022 April- 20222 Sept
+                                    2022 April- 2022 Sept
                                 </span>
                                 <span className="text-xs font-medium text-gray-200">Technobux India Pvt. Ltd (wezbo)</span>
                             </div>

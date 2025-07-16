@@ -46,6 +46,7 @@ function TectStack() {
                 { name: "Tailwind CSS", level: 9 },
                 { name: "Material-UI", level: 8 },
                 { name: "Bootstrap", level: 4 },
+                { name: "Redux", level: 7.5 },
             ],
         },
         {
