@@ -14,7 +14,7 @@ const HeroSection = () => {
                         className="absolute z-0 size-full object-cover"
                         style={{ color: 'transparent' }}
                         src={photo}
-                        // src="https://demo.reactresume.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheader-background.371f2b47.webp&w=1920&q=75"
+                    // src="https://demo.reactresume.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheader-background.371f2b47.webp&w=1920&q=75"
                     />
 
                     <div className="z-10 max-w-screen-lg px-4 lg:px-0">
@@ -128,19 +128,7 @@ const HeroSection = () => {
     );
 };
 
-// You can extract this into a separate component if you want
-const SocialIcon = ({ href, label, icon }) => (
-    <a
-        aria-label={label}
-        className="-m-2 rounded-md p-2 text-gray-200 hover:text-white focus:outline-none focus:ring-2 focus:ring-white sm:-m-1.5 sm:p-1.5"
-        href={href}
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        {/* You can use a component library like react-icons here */}
-        <span>{label}</span> {/* Placeholder for icon */}
-    </a>
-);
+
 
 
 
