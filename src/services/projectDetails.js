@@ -4,8 +4,7 @@ export const projects = [
     title: "DevTinder Plateform",
     description:
       "A social platform connecting developers to network, send friend requests, and chat in real-time using Socket.IO. Integrated premium subscription payments with Razorpay for enhanced features.",
-    image:
-      "https://media.licdn.com/dms/image/v2/D5612AQHmWpsKqCEUgQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1692110377639?e=2147483647&v=beta&t=8o8pbq1bZtrQjOZxyCis8GkK8FtHx38WqMoea3qjPB0",
+    image: "https://w7.pngwing.com/pngs/313/882/png-transparent-handshake-regard-cooperate-connect-unite-connection-people-communication-team-partnership-thumbnail.png",
     link: "https://devtinder-07.netlify.app/",
   },
   {
